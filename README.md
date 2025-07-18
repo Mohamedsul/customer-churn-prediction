@@ -9,9 +9,9 @@ A machine learning project to predict customer churn using classification algori
 - **Best Performance**: 0.803 accuracy, 0.845 AUC score
 
 ## 🚀 Quick Start
-1. Clone repository: `git clone https://github.com/yourusername/customer-churn-prediction`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run notebook: `jupyter notebook notebooks/main_analysis.ipynb`
+1. Clone repository
+2. Install dependencies
+3. Run notebook
 
 ## 📈 Key Results
 - Logistic Regression achieved best performance
